@@ -33,7 +33,7 @@
 
         var apiKey = "AIzaSyCCyUIh8hF92X-Wx_VnJXmOnPJqdBCGdII",
         apiURL = "https://www.googleapis.com/youtube/v3/search?videoEmbeddable=true"
-        +"&order=date&part=snippet&channelId=UCWu91J5KWEj1bQhCBuGeJxw&type=video&maxResults=15&key=" 
+        +"&order=date&part=snippet&channelId=UClyA28-01x4z60eWQ2kiNbA&type=video&maxResults=15&key=" 
         + apiKey,
         youtubeFactory = {};
 
